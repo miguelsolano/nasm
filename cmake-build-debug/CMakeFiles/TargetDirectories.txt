@@ -1,0 +1,3 @@
+/Users/miguelsolano/CLionProjects/nasm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/miguelsolano/CLionProjects/nasm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miguelsolano/CLionProjects/nasm/cmake-build-debug/CMakeFiles/nasm.dir
